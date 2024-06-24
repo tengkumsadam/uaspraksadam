@@ -10,37 +10,37 @@
           <q-list>
             <q-item clickable v-ripple to="/Tugas1">
               <q-item-section>  
-                <q-item-label>Tugas 1 (❌)</q-item-label>
+                <q-item-label>Tugas 1 (✘)</q-item-label>
               </q-item-section>
             </q-item>
             <q-item clickable v-ripple>
               <q-item-section>
-                <q-item-label><a href="https://tugas2-pbk-sadam-223510955.vercel.app/" target="_blank">Tugas 2 (✅)</a></q-item-label>
+                <q-item-label><a href="https://tugas2-pbk-sadam-223510955.vercel.app/" target="_blank">Tugas 2 (✔)</a></q-item-label>
               </q-item-section>
             </q-item>
             <q-item clickable v-ripple>
               <q-item-section>
-                <q-item-label><a href="https://tugas3-kappa.vercel.app/" target="_blank">Tugas 3 (✅)</a></q-item-label>
+                <q-item-label><a href="https://tugas3-kappa.vercel.app/" target="_blank">Tugas 3 (✔)</a></q-item-label>
               </q-item-section>
             </q-item>
             <q-item clickable v-ripple to="/Tugas4">
               <q-item-section>
-                <q-item-label>Tugas 4 (❌)</q-item-label>
+                <q-item-label>Tugas 4 (✘)</q-item-label>
               </q-item-section>
             </q-item>
             <q-item clickable v-ripple>
               <q-item-section>
-                <q-item-label><a href="https://tugas5-sadam.vercel.app/" target="_blank">Tugas 5 (✅)</a></q-item-label>
+                <q-item-label><a href="https://tugas5-sadam.vercel.app/" target="_blank">Tugas 5 (✔)</a></q-item-label>
               </q-item-section>
             </q-item>
             <q-item clickable v-ripple to="/Tugas6">
               <q-item-section>
-                <q-item-label>Tugas 6 (❌)</q-item-label>
+                <q-item-label>Tugas 6 (✘)</q-item-label>
               </q-item-section>
             </q-item>
             <q-item clickable v-ripple to="/Tugas7">
               <q-item-section>
-                <q-item-label>Tugas 7 (❌)</q-item-label>
+                <q-item-label>Tugas 7 (✘)</q-item-label>
               </q-item-section>
             </q-item>
           </q-list>
